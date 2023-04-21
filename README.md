@@ -130,6 +130,6 @@ Here are some ways of contributing to making Treblle better:
 ### Contributors
 <a href="https://github.com/Treblle/treblle-net-core/graphs/contributors">
   <p align="center">
-    <img  src="https://contrib.rocks/image?repo=Treblle/treblle-net-core" alt="A table of avatars from the project's contributors" />
+    <img  src="https://contrib.rocks/image?repo=Treblle/roadmap.treblle.com" alt="A table of avatars from the project's contributors" />
   </p>
 </a>
