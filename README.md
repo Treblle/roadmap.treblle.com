@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://treblle-github.s3.amazonaws.com/header.png"/>
+  <img src="https://github.com/user-attachments/assets/b9f8b353-e101-41fc-9842-9d86d7471181"/>
 </div>
 <div align="center">
 
@@ -21,13 +21,15 @@
   <hr />
 </div>
 
-Treblle is a lightweight SDK that helps Engineering and Product teams build, ship & maintain REST based APIs faster.
+API Intelligence Platform. 🚀
+
+Treblle is a lightweight SDK that helps Engineering and Product teams build, ship & maintain REST-based APIs faster.
 
 ## Features
 
 <div align="center">
   <br />
-  <img src="https://treblle-github.s3.amazonaws.com/features.png"/>
+  <img src="https://github.com/user-attachments/assets/9cd92809-298c-4b83-b3be-4b964b7bb582"/>
   <br />
   <br />
 </div>
@@ -51,7 +53,7 @@ Treblle also uses the requests sent to your Dashboard to calculate your API scor
 
 ## Get Started
 
-1. Sign in to [Treblle](https://app.treblle.com).
+1. Sign in to [Treblle](https://identity.treblle.com/login).
 2. [Create a Treblle project](https://docs.treblle.com/en/dashboard/projects#creating-a-project).
 3. [Setup the SDK](#install-the-SDK) for your platform.
 
