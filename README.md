@@ -51,7 +51,7 @@ Treblle also uses the requests sent to your Dashboard to calculate your API scor
 
 ## Get Started
 
-1. Sign in to [Treblle](https://app.treblle.com).
+1. Sign in to [Treblle](https://platform.treblle.com).
 2. [Create a Treblle project](https://docs.treblle.com/en/dashboard/projects#creating-a-project).
 3. [Setup the SDK](#install-the-SDK) for your platform.
 
